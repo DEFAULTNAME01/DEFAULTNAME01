@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on system-level Embedded Development for edge computing in the university laboratory
 -  🌱 I’m currently learning to deploy LLM locally...
 -  💬 Ask me about Linux driver, FPGA, DFT...
+## 📈 Stats:
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEFAULTNAME01&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8)
+
+---
