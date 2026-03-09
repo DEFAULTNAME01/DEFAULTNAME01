@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 -  💬 Ask me about Linux driver, FPGA, DFT...
 ## 📈 Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEFAULTNAME01&layout=compact&langs_count=8&theme=graywhite&hide_border=true&card_width=320)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEFAULTNAME01&theme=default)
 ---
